@@ -1,0 +1,7 @@
+# BBCA-Predicition-ARIMA-ARIMAX
+Data Science
+
+Purpose: This research aims to test the ARIMA and ARIMAX algorithm models from PT Bank Central Asia Tbk stock data (BBCA) during the covid-19 pandemic by comparing the two algorithm models with their respective error values algorithm in his praise. 
+Design/methodology/approach: Close variables or closing prices are tested, wherever other variables will be used for influence variables in the ARIMAX algorithm, with data totalling 2482 with a period of 10 years with data retrieval with the API (Application Programming Interface) created by ranaroussi-safe levellers, this API has also been legalized by Yahoo Developer. in comparing an algorithm, it uses a calculation of the value of MSE, MAE, RMSE, MAPE error.
+Findings/result: The MSE error value in the ARIMA model is 2181551.89 while in the ARIMAX model it is 2543.90, the MAE error value in the ARIMA model is 1291.44 while in the ARIMAX model it is 39.15, the RMSE error value on the ARIMA model is 1477.01 while on the ARIMAX model it is 50.44, the RMSE error value on the ARIMA model is 17.49 while on the ARIMAX model it is 0.55. The ARIMAX model is stated to be better at making predictions because the error values on MSE, MAE, RMSE and MAPE are much smaller than the ARIMA model. 
+Originality/value/state of the art: By comparing the two ARIMA and ARIMAX algorithm models in making predictions in this study, it can be used as a benchmark and reference in the future in making predictions with the algorithm model used.
